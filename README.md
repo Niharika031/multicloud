@@ -1,1 +1,10 @@
-# multicloud
+welcome to LW cloud
+<br />
+
+<pre>
+<?php
+
+print 'ifconfig';
+
+?>
+</pre>
